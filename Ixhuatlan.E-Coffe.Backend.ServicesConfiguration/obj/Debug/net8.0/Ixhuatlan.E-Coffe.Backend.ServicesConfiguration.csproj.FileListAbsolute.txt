@@ -1,0 +1,13 @@
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\bin\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.deps.json
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\bin\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.dll
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\bin\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.pdb
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.csproj.AssemblyReference.cache
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.AssemblyInfoInputs.cache
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.AssemblyInfo.cs
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.csproj.CoreCompileInputs.cache
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.sourcelink.json
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.dll
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\obj\Debug\net8.0\refint\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.dll
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.pdb
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\obj\Debug\net8.0\ref\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.dll

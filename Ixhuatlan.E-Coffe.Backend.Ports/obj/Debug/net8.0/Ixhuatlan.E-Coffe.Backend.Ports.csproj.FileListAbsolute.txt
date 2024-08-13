@@ -1,0 +1,16 @@
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\bin\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.Ports.deps.json
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\bin\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.Ports.dll
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\bin\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.Ports.pdb
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\bin\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.Entities.dll
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\bin\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.Entities.pdb
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.Ports.csproj.AssemblyReference.cache
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.Ports.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.Ports.AssemblyInfoInputs.cache
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.Ports.AssemblyInfo.cs
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.Ports.csproj.CoreCompileInputs.cache
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.Ports.sourcelink.json
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\obj\Debug\net8.0\Ixhuatla.E7CDB763.Up2Date
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.Ports.dll
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\obj\Debug\net8.0\refint\Ixhuatlan.E-Coffe.Backend.Ports.dll
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\obj\Debug\net8.0\Ixhuatlan.E-Coffe.Backend.Ports.pdb
+C:\GitProjects\E-Coffe\Ixhuatlan.E-Coffe.Backend.Ports\obj\Debug\net8.0\ref\Ixhuatlan.E-Coffe.Backend.Ports.dll
