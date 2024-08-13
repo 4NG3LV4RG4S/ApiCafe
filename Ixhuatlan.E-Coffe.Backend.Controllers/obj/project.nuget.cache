@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rI4S4pyLWeA=",
+  "dgSpecHash": "95H3Ihfqh44=",
   "success": true,
-  "projectFilePath": "C:\\GitProjects\\E-Coffe\\Ixhuatlan.E-Coffe.Backend.Controllers\\Ixhuatlan.E-Coffe.Backend.Controllers.csproj",
+  "projectFilePath": "C:\\GitProjects\\E-Coffe\\ApiCafe\\Ixhuatlan.E-Coffe.Backend.Controllers\\Ixhuatlan.E-Coffe.Backend.Controllers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juan_vargas\\.nuget\\packages\\azure.core\\1.40.0\\azure.core.1.40.0.nupkg.sha512",
     "C:\\Users\\juan_vargas\\.nuget\\packages\\azure.identity\\1.12.0\\azure.identity.1.12.0.nupkg.sha512",

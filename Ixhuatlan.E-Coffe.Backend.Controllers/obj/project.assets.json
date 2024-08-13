@@ -4518,11 +4518,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitProjects\\E-Coffe\\Ixhuatlan.E-Coffe.Backend.Controllers\\Ixhuatlan.E-Coffe.Backend.Controllers.csproj",
+      "projectUniqueName": "C:\\GitProjects\\E-Coffe\\ApiCafe\\Ixhuatlan.E-Coffe.Backend.Controllers\\Ixhuatlan.E-Coffe.Backend.Controllers.csproj",
       "projectName": "Ixhuatlan.E-Coffe.Backend.Controllers",
-      "projectPath": "C:\\GitProjects\\E-Coffe\\Ixhuatlan.E-Coffe.Backend.Controllers\\Ixhuatlan.E-Coffe.Backend.Controllers.csproj",
+      "projectPath": "C:\\GitProjects\\E-Coffe\\ApiCafe\\Ixhuatlan.E-Coffe.Backend.Controllers\\Ixhuatlan.E-Coffe.Backend.Controllers.csproj",
       "packagesPath": "C:\\Users\\juan_vargas\\.nuget\\packages\\",
-      "outputPath": "C:\\GitProjects\\E-Coffe\\Ixhuatlan.E-Coffe.Backend.Controllers\\obj\\",
+      "outputPath": "C:\\GitProjects\\E-Coffe\\ApiCafe\\Ixhuatlan.E-Coffe.Backend.Controllers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
@@ -4547,8 +4547,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\GitProjects\\E-Coffe\\Ixhuatlan.E-Coffe.Backend.Ports\\Ixhuatlan.E-Coffe.Backend.Ports.csproj": {
-              "projectPath": "C:\\GitProjects\\E-Coffe\\Ixhuatlan.E-Coffe.Backend.Ports\\Ixhuatlan.E-Coffe.Backend.Ports.csproj"
+            "C:\\GitProjects\\E-Coffe\\ApiCafe\\Ixhuatlan.E-Coffe.Backend.Ports\\Ixhuatlan.E-Coffe.Backend.Ports.csproj": {
+              "projectPath": "C:\\GitProjects\\E-Coffe\\ApiCafe\\Ixhuatlan.E-Coffe.Backend.Ports\\Ixhuatlan.E-Coffe.Backend.Ports.csproj"
             }
           }
         }

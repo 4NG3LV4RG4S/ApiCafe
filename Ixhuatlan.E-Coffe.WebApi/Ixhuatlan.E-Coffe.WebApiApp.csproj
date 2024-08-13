@@ -18,7 +18,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Ixhuatlan.E-Coffe.Backend.Controllers\Ixhuatlan.E-Coffe.Backend.Controllers.csproj" />
     <ProjectReference Include="..\Ixhuatlan.E-Coffe.Backend.Entities\Ixhuatlan.E-Coffe.Backend.Entities.csproj" />
-    <ProjectReference Include="..\Ixhuatlan.E-Coffe.WepApi\Ixhuatlan.E-Coffe.Backend.AuthorizationUseCase\Ixhuatlan.E-Coffe.Backend.AuthorizationUseCase.csproj" />
+    <ProjectReference Include="..\Ixhuatlan.E-Coffe.WepApiApp\Ixhuatlan.E-Coffe.Backend.AuthorizationUseCase\Ixhuatlan.E-Coffe.Backend.AuthorizationUseCase.csproj" />
   </ItemGroup>
 
 </Project>

@@ -67,11 +67,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitProjects\\E-Coffe\\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.csproj",
+      "projectUniqueName": "C:\\GitProjects\\E-Coffe\\ApiCafe\\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.csproj",
       "projectName": "Ixhuatlan.E-Coffe.Backend.ServicesConfiguration",
-      "projectPath": "C:\\GitProjects\\E-Coffe\\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.csproj",
+      "projectPath": "C:\\GitProjects\\E-Coffe\\ApiCafe\\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration.csproj",
       "packagesPath": "C:\\Users\\juan_vargas\\.nuget\\packages\\",
-      "outputPath": "C:\\GitProjects\\E-Coffe\\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\\obj\\",
+      "outputPath": "C:\\GitProjects\\E-Coffe\\ApiCafe\\Ixhuatlan.E-Coffe.Backend.ServicesConfiguration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

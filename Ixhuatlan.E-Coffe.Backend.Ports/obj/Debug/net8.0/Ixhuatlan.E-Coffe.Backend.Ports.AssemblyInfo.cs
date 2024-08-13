@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ixhuatlan.E-Coffe.Backend.Ports")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6347dc1e5f609275817d12623db8b2b15559acad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ec66d92204f82311518a15c95b3ec180a91dfa2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ixhuatlan.E-Coffe.Backend.Ports")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ixhuatlan.E-Coffe.Backend.Ports")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
